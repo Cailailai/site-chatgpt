@@ -1,8 +1,8 @@
-# ChatGPT 镜像网站汇总：国内免费指南（支持 GPT-4，无需翻墙）【2025年3月11日更新】
+# ChatGPT 镜像网站汇总：国内免费指南（支持 GPT-4，无需翻墙）【2025年3月14日更新】
 
 > 作者: Cailailai
 > 
-> 更新: 2025/03/11
+> 更新: 2025/03/14
 
 如何在国内使用 ChatGPT？我们为您整理了最新可用的 ChatGPT 镜像网站，无需翻墙就能直接使用~
 
@@ -19,7 +19,7 @@ ChatGPT 镜像网站是基于 OpenAI 的 ChatGPT 模型，提供与 ChatGPT 官�
 
 ### 国内推荐的 ChatGPT 镜像网站：
 
-- [songshugpt.com](https://songshugpt.com) - ChatGPT 镜像网站，支持 GPT-4、4o 以及 o1，支持 AI 绘画、AI 助手、AI 插件、AI PPT~
+- [songshugpt.com](https://songshugpt.com) - ChatGPT 镜像网站，支持 GPT-4、4o 以及 gpt-o1，gpt-o3,deepseek、grok3支持 AI 绘画、AI 助手、AI 插件、AI PPT~
 - [gptdog.online](https://gptdog.online) - ChatGPT 中文版，支持 GPT-4、4o 以及 o1、o1 pro，支持 AI 写作、AI 编程、AI 办公等场景
 - [gptcat.net](https://gptcat.net) - AI 工具站，不仅 ChatGPT，还有各种 AI 工具，你想要的，这儿都有~
 - [ai.panda.xyz](https://ai.panda.xyz) - GPT-4 镜像站，支持 GPT-4、4o，支持 MJ 绘画
